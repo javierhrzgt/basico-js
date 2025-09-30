@@ -3,7 +3,7 @@ const entero = 42
 const decimal = 3.14
 console.log(typeof entero, typeof decimal)
 
-// 2. NotaciÃ³n cientÃ­fica
+// 2. Notacion cientifica
 const cientifico = 5e3
 
 // 3. Infinitos y NaN
